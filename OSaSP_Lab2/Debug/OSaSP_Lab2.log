@@ -1,0 +1,3 @@
+﻿  OSaSP_Lab2.cpp
+C:\Users\PK\Downloads\Elen2\OSaSP_Lab2\OSaSP_Lab2\OSaSP_Lab2.cpp(37,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  OSaSP_Lab2.vcxproj -> C:\Users\PK\Downloads\Elen2\OSaSP_Lab2\Debug\OSaSP_Lab2.exe
